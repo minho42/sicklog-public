@@ -1,11 +1,31 @@
 # Sick Log
 
-A simple iPhone app for keeping track of when you, your kids, or anyone you care
-for is sick.
+An iPhone app for keeping track of when you, your kids, or anyone you care for
+is sick — what it was, how long it lasted, and how they were along the way.
 
-Log an illness in a few taps — symptoms, temperature, medications, and notes —
-then look back over time to see how often, how long, and what it was. You can
-export your logs whenever you like.
+## What you can record
+
+- **Sick logs** — who, which symptoms, and when, from a single day to a week or
+  more. Add notes on any day as it goes on.
+- **Temperatures** — each reading with its time. Readings of 38 °C (100.4 °F)
+  or higher are flagged as a fever. Shown in °C or °F, following your iPhone's
+  settings.
+- **Medications** — each dose with its time and amount. Medicines you've given
+  before are a tap away.
+
+Temperatures and medications belong to the person rather than to a sick log, so
+a quick check or a single dose doesn't need a log of its own. Each reading and
+dose can have a short note, like "under the arm" or "with food".
+
+## Looking back
+
+- **Calendar** — a month at a glance, with each person in their own colour. A
+  red dot marks a day with a fever, and a grey dot a day with a note.
+- **Logs** — every sick log in one list, with the temperatures, medications,
+  and notes from its days.
+- **People** — each person's sick logs, and their full history of temperatures
+  and medications.
+- **Export** — save everything as a CSV or JSON file whenever you like.
 
 ## iCloud and sharing
 
@@ -25,14 +45,14 @@ server, no account to create, no analytics, and no ads. See the
 
 ## Pricing
 
-Sick Log is free to use, with an optional one-time in-app purchase that unlocks
-more.
+Sick Log is free for one person. A one-time in-app purchase, Sick Log Pro, lets
+you keep track of as many people as you like and includes all future features.
 
 ## Not medical advice
 
 Sick Log is a record-keeping tool, not a medical device. It doesn't diagnose,
-treat, or give advice. If you're worried about anyone's health, talk to a
-doctor.
+treat, or give advice — including about medicines or doses. If you're worried
+about anyone's health, talk to a doctor or pharmacist.
 
 ## Support
 

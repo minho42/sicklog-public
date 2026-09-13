@@ -3,7 +3,8 @@
 Sick Log doesn't collect any data. There's no server, no account, no analytics,
 no ads, no tracking, and no third-party SDKs.
 
-**Your data:** everything you enter is stored on your device and, if you're
+**Your data:** everything you enter — people's details and photos, symptoms,
+temperatures, medications, and notes — is stored on your device and, if you're
 signed in to iCloud, in your own private iCloud account through Apple. The
 developer can't see or access it. You can turn off iCloud for the app in iOS
 Settings.
