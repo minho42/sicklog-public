@@ -24,4 +24,4 @@ Settings → your name → iCloud.
 
 **Changes:** if this policy changes, the update will be posted here.
 
-Questions: [minho42+sicklog+support@gmail.com](mailto:minho42+sicklog+support@gmail.com)
+Questions: [minho42+sicklog@gmail.com](mailto:minho42+sicklog@gmail.com)

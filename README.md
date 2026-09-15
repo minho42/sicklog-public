@@ -5,8 +5,14 @@ is sick — what it was, how long it lasted, and how they were along the way.
 
 ## What you can record
 
-- **Sick logs** — who, which symptoms, and when, from a single day to a week or
-  more. Add notes on any day as it goes on.
+- **Sick logs** — one for each illness: who was sick, with what (a cold, the
+  flu — or leave it blank if you're not sure yet), and from which day to
+  which, whether that's one day or a week or more.
+- **Symptoms, day by day** — symptoms come and go over an illness, so each day
+  gets its own: a cough on Monday, a cough and a runny nose on Tuesday. Add
+  them as the days go by. Logging the same illness again the next day carries
+  on the same sick log rather than starting a new one.
+- **Notes** — on any day of a sick log, as it goes on.
 - **Temperatures** — each reading with its time. Readings of 38 °C (100.4 °F)
   or higher are flagged as a fever. Shown in °C or °F, following your iPhone's
   settings.
@@ -19,13 +25,18 @@ dose can have a short note, like "under the arm" or "with food".
 
 ## Looking back
 
-- **Calendar** — a month at a glance, with each person in their own colour. A
-  red dot marks a day with a fever, and a grey dot a day with a note.
-- **Logs** — every sick log in one list, with the temperatures, medications,
-  and notes from its days.
+- **Calendar** — a month at a glance. Each illness is one bar in the person's
+  colour, running across its days. Along the top of each day, a red dot marks
+  a fever, a blue dot symptoms, and a grey dot a note. Tap a sick log to see
+  its symptoms day by day, with its temperatures, medications, and notes.
+- **Logs** — every sick log in one list, with each day's symptoms and the
+  temperatures, medications, and notes from its days.
+- **Show or hide people** — on the Calendar and Logs, tap a person to show or
+  hide their sick logs, or use All and None.
 - **People** — each person's sick logs, and their full history of temperatures
   and medications.
-- **Export** — save everything as a CSV or JSON file whenever you like.
+- **Export** — save everything, including each illness and each day's
+  symptoms, as a CSV or JSON file whenever you like.
 
 ## iCloud and sharing
 
@@ -56,4 +67,4 @@ about anyone's health, talk to a doctor or pharmacist.
 
 ## Support
 
-Questions, bugs, or ideas: [minho42+sicklog+support@gmail.com](mailto:minho42+sicklog+support@gmail.com)
+Questions, bugs, or ideas: [minho42+sicklog@gmail.com](mailto:minho42+sicklog@gmail.com)
