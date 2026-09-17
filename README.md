@@ -25,12 +25,12 @@ a sick log of their own, and those during an illness show up in its sick log.
 ## iCloud and sharing
 
 If you're signed in to iCloud, your data is saved to your own private iCloud
-account. It syncs across your devices and comes back if you reinstall the app or
-move to a new iPhone.
+account — on the free version too, not just Pro. It syncs across your devices
+and comes back if you reinstall the app or move to a new iPhone.
 
 Sharing logs with other people — a partner, grandparent, or carer — isn't
-available yet. It may come in a future update, depending on interest. If you'd
-like it, get in touch using the support address below.
+available yet. It may come in a future update if there's demand for it. If
+you'd like it, get in touch using the support address below.
 
 ## Privacy
 
@@ -40,8 +40,8 @@ server, no account to create, no analytics, and no ads. See the
 
 ## Pricing
 
-Sick Log is free for one person. A one-time in-app purchase, Sick Log Pro, lets
-you keep track of as many people as you like and includes all future features.
+Sick Log is free for one person, with every feature included. A one-time
+in-app purchase, Sick Log Pro, lets you add more than one person.
 
 ## Not medical advice
 
