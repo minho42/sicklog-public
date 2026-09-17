@@ -3,6 +3,8 @@
 An iPhone app for keeping track of when you, your kids, or anyone you care for
 is sick — what it was, how long it lasted, and how they were along the way.
 
+<img src="screenshots/screenshot.png" alt="Sick Log on iPhone" width="300">
+
 ## What you can record
 
 - **Sick logs** — one for each illness: who was sick, with what, and for how
